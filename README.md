@@ -1,0 +1,2 @@
+# Movie-Success-Prediction-Using-Data-Mining
+Around hundreds of movies are releasing everyday. Some are good, some average and some poor. Early prediction system of those movies help the viewers whether to book the ticket in advance.   Movies prediction system can be accessible by the admin using username and password and viewer can ask for information about the new movie and eventually predict the movie success before the release by analyzing past records of film crew members, movie release date and marketing budget.
